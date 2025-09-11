@@ -1,0 +1,239 @@
+<mjml>
+  <mj-head>
+    <mj-title>Emerald Auction Centre - Auction Live Now</mj-title>
+    <mj-preview>Over 900 Lots - Bidding closes from 9am AEST, Monday 18th August</mj-preview>
+    <mj-attributes>
+      <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" />
+      <mj-font name="Playfair" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" />
+      <mj-text font-family="Inter, sans-serif" font-size="16px" color="#4E4E4E" font-weight="400" line-height="1.5"></mj-text>
+      <mj-section background-color="#ffffff"></mj-section>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-raw>
+      <!-- Header Section -->
+    </mj-raw>
+    <mj-section background-color="#0D795F" padding="13px 30px">
+      <mj-group width="42%" vertical-align="middle">
+        <mj-column>
+        	<mj-image src="https://i.ibb.co.com/tMNqHQR5/logo.png" alt="Emerald Auction Centre Logo" width="164px" padding="0" align="left"></mj-image>
+        </mj-column>
+      </mj-group>
+      <mj-group width="58%" vertical-align="middle">
+        <mj-column width="227px">
+        	<mj-text padding="0" align="center" color="white" font-size="16px" font-family="Playfair" padding-bottom="8px">
+            Next Auction
+        	</mj-text>
+        	<mj-text padding="0" align="center" color="white" font-size="24px" font-weight="700">
+          	15th - 18th August
+          </mj-text>
+      	</mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Live Announcement -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="40px 30px 30px">
+      <mj-column>
+        <mj-text align="center" font-size="32px" font-family="Playfair" color="#111111" font-weight="700" padding="0 0 8px" line-height="1">AUCTION LIVE NOW</mj-text>
+        <mj-text align="center" padding="0">Bidding closes from</mj-text>
+        <mj-text align="center" padding="0 0 16px">9am AEST, Monday 18th August</mj-text>
+        <mj-text align="center" padding="0" color="#0D795F" font-weight="700">Over 900 Lots</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 18px 46px">
+      <mj-group css-class="padding-12">
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+      <mj-group>
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 18px 46px">
+      <mj-group css-class="padding-12">
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+      <mj-group>
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 18px 46px">
+      <mj-group css-class="padding-12">
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+      <mj-group>
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 18px 46px">
+      <mj-group css-class="padding-12">
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+      <mj-group>
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 18px 72px">
+      <mj-group css-class="padding-12">
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+      <mj-group>
+        <mj-column border-radius="12px">
+          <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="Case IH 7140 Combine Harvester with Platform" padding="0" border-radius="12px 12px 0 0"></mj-image>
+          <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+          <mj-button css-class="margin--22" padding="0" inner-padding="10px 48px 12px" background-color="#117960" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        View Details
+          </mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+		<mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0 18px 64px">
+      <mj-column>
+        <mj-button css-class="margin--22" padding="0" inner-padding="12px 28px 13px" background-color="#AF8D46" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="/#">
+        August Online Multi-Vendor Auction Catalogue
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Seller/Buyer Section -->
+    </mj-raw>
+    <mj-section background-color="#8b4513" padding="36px 30px" background-url="https://i.ibb.co.com/1G4HLqDV/bg-with-color.jpg" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-column width="70%" vertical-align="middle">
+        <mj-text font-size="28px" font-weight="600" line-height="1.2" color="#ffffff" font-family="Playfair" align="left">Connecting Sellers and buyers Australia Wide</mj-text>
+      </mj-column>
+      <mj-column width="30%" vertical-align="middle">
+        <mj-button css-class="margin--22" padding="0" inner-padding="13px 32px 13px" background-color="#ffffff" color="#000000" font-size="16px" line-height="1.5" font-weight="500" border-radius="8.5px" href="/#">
+        Contact Us
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-wrapper padding="30px 30px 52px" background-url="https://i.ibb.co.com/mV4N84gR/Frame-128x.png" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-section background-color="transparent" padding="0">
+        <mj-column>
+          <mj-image src="https://i.ibb.co.com/LhDxMdqP/logo-footer.png" alt="Emerald Auction Centre Logo" width="184px" align="center"></mj-image>
+        </mj-column>
+      </mj-section>
+    	<mj-raw>
+      <!-- Footer -->
+      </mj-raw>
+      <mj-section background-color="transparent" padding="0">
+        <mj-column vertical-align="middle">
+          <mj-text align="left" font-size="14px" line-height="1.7" font-weight="700" color="#117960" text-decoration="underline">View Email in browser</mj-text>
+        </mj-column>
+      	<mj-column vertical-align="middle">
+          <mj-social icon-size="32px" mode="horizontal" align="right">
+            <mj-social-element src="https://i.ibb.co.com/sp64Cspv/facebook.png" href="https://www.facebook.com/" background-color="transparent" alt="facebook"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co.com/G3BhZb0N/web.png" href="https://www.facebook.com/" background-color="transparent" alt="facebook"></mj-social-element>
+            <mj-social-element src="https://i.ibb.co.com/fVbySdNL/youtube.png" href="https://www.facebook.com/" background-color="transparent" alt="facebook"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-section>
+    	<mj-raw>
+      <!-- Footer -->
+    	</mj-raw>
+      <mj-section background-color="transparent" padding="0">
+        <mj-column width="30%">
+          <mj-text padding="0">
+            <a href="tel:+61749824272" style="text-decoration: none; color: #111;line-height:24px;display:inline-flex;gap:8px;">
+              <img src="https://i.ibb.co.com/67SdM81j/phone.png" alt="Phone"width="24" height="24" style="margin-right:8px;"/>
+              (07) 4982 4272
+            </a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="60%">
+          <mj-text padding="0" align="right">
+            <a href="mailto:admin@emeraldauctioncentre.com.au" style="text-decoration: none; color: #111;line-height:24px;display:inline-flex;gap:8px;">
+               <img src="https://i.ibb.co.com/m5wDzGc1/envelope.png" alt="envelope"width="24" height="24" style="margin-right:8px;"/>
+               admin@emeraldauctioncentre.com.au
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+    
+    <mj-raw>
+    </mj-raw>
+    <mj-section background-color="#117960" padding="16px 30px">
+      <mj-column>
+        <mj-text color="white" font-size="14px" font-weight="400" align="center" padding="0 0 12px"><a href="#" style="color:#ffffff;font-weight:700;">update your preferences</a> or <a href="#" style="color:#ffffff;font-weight:700;">unsubscribe</a></a></mj-text>
+				<mj-text color="white" font-size="14px" font-weight="400" align="center" padding="0">Copyright (C) 2025 <span style="font-weight:600">Emerald AuctionCentre</span>. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
