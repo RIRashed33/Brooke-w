@@ -1,0 +1,224 @@
+<mjml>
+  <mj-head>
+    <mj-title>Emerald Auction Centre</mj-title>
+    <mj-preview>Over 900 Lots - Bidding closes from 9am AEST, Monday 18th August</mj-preview>
+    <mj-attributes>
+      <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"></mj-font>
+      <mj-font name="Playfair" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"></mj-font>
+      <mj-text font-family="Inter, sans-serif" font-size="16px" color="#4E4E4E" font-weight="400" line-height="1.5"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .header-right {
+          text-align: right !important;
+      }
+      
+      .button-margin a {
+      	margin-bottom: -22px !important;
+      	background: #117960 !important;
+      }
+
+      .width-control {
+      	width: 100% !important;
+      }
+      
+      .width-282 {
+      	width: 282px !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F7F7F7">
+    <mj-raw>
+      <!-- Header Section -->
+    </mj-raw>
+    <mj-section background-color="#0D795F" padding="5px 30px 10px">
+      <mj-group vertical-align="middle">
+        <mj-column padding="8px 0" width="164px" css-class="width-control">
+          <mj-image css-class="logo-align" src="https://i.ibb.co.com/tMNqHQR5/logo.png" alt="Emerald Auction Centre Logo" width="164px" align="center" padding="0px"></mj-image>
+        </mj-column>
+      </mj-group>
+      <mj-group vertical-align="middle" css-class="header-right">
+        <mj-column width="227px" css-class="width-control" padding="8px 0">
+          <mj-text padding="0px" align="center" color="white" font-size="16px" font-family="Playfair" padding-bottom="8px">Next Auction</mj-text>
+          <mj-text padding="0px" align="center" color="white" font-size="24px" font-weight="700" line-height="1">15th - 18th August</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Live Announcement -->
+    </mj-raw>
+    <mj-section padding="40px 30px 30px">
+      <mj-column>
+        <mj-text align="center" font-size="32px" font-family="Playfair" color="#111111" font-weight="700" padding="0 0 8px" line-height="1">AUCTION LIVE NOW</mj-text>
+        <mj-text align="center" padding="0px">Bidding closes from</mj-text>
+        <mj-text align="center" padding="0 0 16px">9am AEST, Monday 18th August</mj-text>
+        <mj-text align="center" padding="0px" color="#0D795F" font-weight="700">Over 900 Lots</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid 1 -->
+    </mj-raw>
+    <mj-section padding="0 18px">
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/67PvmzhP/lot-1.png" alt="lot-1" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT 1</strong> - 2017 Case IH 7140 Combine Harvester with Platform</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/LdH8vSjd/lot-3.png" alt="lot-3" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 3</strong> - 2016 case ih patriot 4430 self- propelled sprayer</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid 2 -->
+    </mj-raw>
+    <mj-section padding="0 18px">
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/LXq9wQYs/lot-4.png" alt="lot-4" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 4</strong> - 2023 case ih steiger 450 tractor</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/1Y4hhwQJ/lot-5.png" alt="lot-5" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 5</strong> - 2021 grizzly tiny ty036-290 offset disc plough</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid 3 -->
+    </mj-raw>
+    <mj-section padding="0 18px">
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/gbnMRtr4/image-63-5.png" alt="lot-6" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 6</strong> - 2014 case ih quadtrack 400 tractor<br></br></mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/JRs508TQ/lot-7.png" alt="lot-7" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 7</strong> - 2023 case ih farmall 110jx tractor with slasher</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid 4 -->
+    </mj-raw>
+    <mj-section padding="0 18px">
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/dwNz4R3G/lot-8.png" alt="lot-8" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 8</strong> - 2022 cat 336gc excavator</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/dwNz4R3G/lot-8.png" alt="lot-9" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 9</strong> - 2014 jcb js290 excavator</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid 5 -->
+    </mj-raw>
+    <mj-section padding="0 18px 0">
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/0j7gPBxz/lot-9.png" alt="lot-10" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 10</strong> - 2022 jcb 560-80 ags telehandler</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/6xHdKYH/lot-10.png'" alt="lot-11" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 11</strong> - 2013 cat d8r dozer</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid 6-->
+    </mj-raw>
+    <mj-section padding="0 18px 26px">
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com//5WDJtd1d/lot-11.png" alt="lot-12" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 12</strong> - 2012 merlo p34.7 telehandler</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+      <mj-column css-class="width-282" inner-border-radius="12px" padding="0 12px 46px" inner-background-color="#ffffff" vertical-align="middle">
+        <mj-image src="https://i.ibb.co.com/Kx1Pb8rF/lot-12.png'" alt="lot-13" padding="0px" border-radius="12px 12px 0 0"></mj-image>
+        <mj-text align="center" padding="18px 27px 12px" color="#4E4E4E" font-size="16px" line-height="1.4"><strong>LOT : 13</strong> - 2008 jig 4394rt scissor lift</mj-text>
+        <mj-button css-class="button-margin" padding="0px" inner-padding="10px 48px 12px" background-color="transparent" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">View Details</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Auction Items Grid -->
+    </mj-raw>
+    <mj-section padding="0 18px 64px">
+      <mj-column>
+        <mj-button css-class="margin--22" padding="0px" inner-padding="12px 28px 13px" background-color="#AF8D46" color="#ffffff" font-size="16px" line-height="1.5" font-weight="500" border-radius="100px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">August Online Multi-Vendor Auction Catalogue</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Seller/Buyer Section -->
+    </mj-raw>
+    <mj-section background-color="#8b4513" padding="20px 30px" background-url="https://i.ibb.co.com/1G4HLqDV/bg-with-color.jpg" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-column width="66%" vertical-align="middle" padding="16px 0">
+        <mj-text font-size="28px" font-weight="600" line-height="1.2" color="#ffffff" font-family="Playfair" align="left" padding="0">Connecting Sellers and buyers Australia Wide</mj-text>
+      </mj-column>
+      <mj-column width="145px" css-class="width-control" vertical-align="middle" padding="16px 0">
+        <mj-button align="left" padding="0px" inner-padding="13px 32px 13px" background-color="#ffffff" color="#000000" font-size="16px" line-height="1.5" font-weight="500" border-radius="8.5px" href="https://emeraldauctioncentre.bidsonline.com.au/catalogue-group.aspx?chid=25463&BID=">Contact Us</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer -->
+    </mj-raw>
+    <mj-wrapper padding="30px 30px 40px" background-url="https://i.ibb.co.com/mV4N84gR/Frame-128x.png" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-section background-color="transparent" padding="0 0 16px">
+        <mj-column>
+          <mj-image src="https://i.ibb.co.com/LhDxMdqP/logo-footer.png" alt="Emerald Auction Centre Logo" width="184px" align="center"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+      <mj-section background-color="transparent" padding="0 0 12px">
+        <mj-group vertical-align="middle">
+          <mj-column vertical-align="middle" padding="0 0 12px" width="150px" css-class="width-control">
+            <mj-text align="center" font-size="14px" line-height="1.7" font-weight="700" color="#117960" text-decoration="underline" padding="0">View Email in browser</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group vertical-align="middle" css-class="header-right">
+          <mj-column padding="0 0 12px" width="132px" css-class="width-control">
+            <mj-social icon-size="32px" mode="horizontal" align="center" padding="0" inner-padding="0 6px">
+              <mj-social-element src="https://i.ibb.co.com/sp64Cspv/facebook.png" href="https://www.facebook.com/" background-color="transparent" alt="facebook"></mj-social-element>
+              <mj-social-element src="https://i.ibb.co.com/G3BhZb0N/web.png" href="https://www.facebook.com/" background-color="transparent" alt="website"></mj-social-element>
+              <mj-social-element src="https://i.ibb.co.com/fVbySdNL/youtube.png" href="https://www.facebook.com/" background-color="transparent" alt="youtube"></mj-social-element>
+            </mj-social>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-raw>
+        <!-- Footer -->
+      </mj-raw>
+      <mj-section background-color="transparent" padding="0">
+        <mj-group vertical-align="middle" width="43%">
+          <mj-column width="145px" css-class="width-control" padding="0 0 12px">
+            <mj-text align="center" padding="0"><a href="tel:+61749824272" style="text-align:center;text-decoration: none; color: #111;line-height:24px;display:inline-flex;align-items:start;">
+              <img src="https://i.ibb.co.com/67SdM81j/phone.png" alt="Phone" width="24" height="24" style="margin-right:8px;" />
+              (07) 4982 4272
+              </a></mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group vertical-align="middle" width="57%">
+          <mj-column width="305px" css-class="width-control" padding="0 0 12px">
+            <mj-text padding="0px" align="center"><a href="mailto:admin@emeraldauctioncentre.com.au" style="text-align:center;text-decoration: none; color: #111;line-height:24px;display:inline-flex;align-items:start;">
+              <img src="https://i.ibb.co.com/m5wDzGc1/envelope.png" alt="envelope" width="24" height="24" style="margin-right:8px;" />
+              admin@emeraldauctioncentre.com.au
+              </a></mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw></mj-raw>
+    <mj-section background-color="#117960" padding="16px 30px">
+      <mj-column>
+        <mj-text color="white" font-size="14px" font-weight="400" align="center" padding="0 0 12px"><a href="#" style="color:#ffffff;font-weight:700;">update your preferences</a> or <a href="#" style="color:#ffffff;font-weight:700;">unsubscribe</a></mj-text>
+        <mj-text color="white" font-size="14px" font-weight="400" align="center" padding="0px">Copyright (C) 2025 <span style="font-weight:600">Emerald AuctionCentre</span>. All rights reserved.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
